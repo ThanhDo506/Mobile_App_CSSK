@@ -1,2 +1,4 @@
-package com.example.mobile_app_cssk.DAO;public class PatientDAO {
+package com.example.mobile_app_cssk.DAO;
+
+public class PatientDAO {
 }
